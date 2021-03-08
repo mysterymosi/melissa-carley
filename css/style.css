@@ -913,3 +913,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .download-btn{ margin-left: 0px; }
 
 }
+
+#about {
+  margin-top: 20px;
+}
